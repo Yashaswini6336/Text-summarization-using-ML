@@ -1,0 +1,4 @@
+Title:Text summerization using Machine Learning
+
+
+In this project we were taken big documents and summerized those using various ML algorithms 
