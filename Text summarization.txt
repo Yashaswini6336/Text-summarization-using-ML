@@ -1,4 +1,6 @@
 Title:Text summerization using Machine Learning
 
 
-In this project we were taken big documents and summerized those using various ML algorithms 
+In this project we were taken big documents and summerized those using various ML algorithms
+we were used luhn algorithm,LexRank algorithm and TextRank algorith
+Among all this we get luhn good result
